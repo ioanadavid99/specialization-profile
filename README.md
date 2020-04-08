@@ -1,2 +1,2 @@
-# cpen-profile
-A series of personal projects as an aspiring UBC CPEN student. 
+# Personal Projects
+A series of personal projects as a UBC Electrical Engineering student. 
